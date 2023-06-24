@@ -4,17 +4,18 @@ body {
   color: #0A0A0A;
   font-family: 'Raleway', sans-serif;
   margin: 8% 12%;
+  font-size: 14px
 }
 h1,h2,.btn-primary {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
-  font-size: 1.4em;
+  font-size: 20px;
   color: black;
   margin-bottom: 40px;
 }
 h2 {
-  font-size: 1em;
+  font-size: 18px;
   color:black;
 }
 
